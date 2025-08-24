@@ -5,7 +5,9 @@ const links = [
   { name: "Leg 3", url: "Leg3.html" },
   { name: "Leg 4", url: "Leg4.html" },
   { name: "Leg 5", url: "Leg5.html" },
-  { name: "Leg 6", url: "Leg6.html" }
+  { name: "Leg 6", url: "Leg6.html" },
+  { name: "Trip Summary", url: "TripSummary.html" }
+
 ];
 
 const navContainer = document.getElementById("nav");
